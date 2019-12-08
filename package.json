@@ -1,0 +1,22 @@
+{
+  "name": "@specialblend/word",
+  "version": "0.0.0",
+  "description": "word list",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/specialblend/word.git"
+  },
+  "author": "cj@specialblend.net",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/specialblend/word/issues"
+  },
+  "homepage": "https://github.com/specialblend/word#readme"
+}
